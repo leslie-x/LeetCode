@@ -1,5 +1,5 @@
 #project name: Bubble sort
-#function: make list nums arrange from min to max
+#function: make list nums arrange from min to max through exchange two neighbors
 
 from randomList import randomList
 import timeit
