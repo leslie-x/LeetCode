@@ -10,7 +10,7 @@ def bubbleSort(iList):
     """bubbleSort"""
     
     if len(iList) <= 1:
-        #check if list is blank
+        #check if list is blank or one element
         return iList
     
     for i in range(1,len(iList)):           #sort i times
