@@ -1,6 +1,6 @@
 #project name: binary search
 #function: find if in the list
-#info:use binary search,
+#info:use binary search, list Must be sorted
 
 from randomList import randomList
 from quickSort import quickSort
